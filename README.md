@@ -1,2 +1,2 @@
-# FundamentosDeHTML_Maria_Pires
+# Fundamentos de HTML - Maria Pires
 # Versión 1
